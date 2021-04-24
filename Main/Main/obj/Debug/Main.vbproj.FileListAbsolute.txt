@@ -1,0 +1,112 @@
+C:\Users\kevin\source\repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\kevin\source\repos\Main\Main\bin\Debug\Main.exe
+C:\Users\kevin\source\repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\kevin\source\repos\Main\Main\bin\Debug\Main.xml
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.Main.resources
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.Resources.resources
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.exe
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.xml
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.pdb
+C:\Users\kevin\source\repos\Main\Main\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.Auspiciante.resources
+C:\Users\kevin\source\repos\Main\Main\obj\Debug\Main.Fondos.resources
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\bin\Debug\Main.exe.config
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\bin\Debug\Main.exe
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\bin\Debug\Main.pdb
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\bin\Debug\Main.xml
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.Auspiciante.resources
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.Fondos.resources
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.Main.resources
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.Resources.resources
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.vbproj.CopyComplete
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.exe
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.xml
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.pdb
+D:\gino\Universidad\Sexto Semestre\Base de Datos\Proyecto_chess\verdadero\Main\Main\obj\Debug\Main.frm_jug.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\Main.exe.config
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\Main.exe
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\Main.pdb
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\Main.xml
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Auspiciante.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Fondos.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Main.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Resources.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.exe
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.xml
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.pdb
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.partida.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Directiva.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Equipo.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Jugador.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.Torneo.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\obj\Debug\Main.pgn.resources
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\pgn.net.dll
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\pgn.net.pdb
+C:\Users\moonify\Downloads\verdadero\Main\Main\bin\Debug\pgn.net.xml
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.exe.config
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.exe
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.pdb
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.xml
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\pgn.net.dll
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\pgn.net.pdb
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\pgn.net.xml
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.Auspiciante.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.Fondos.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.pgn.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.Main.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.Resources.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.partida.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.exe
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.xml
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.pdb
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.frm_jug.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.frmDirectiva.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.frm_equ.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.frmTorneo.resources
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.exe.manifest
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\bin\Debug\Main.application
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.exe.manifest
+C:\Users\USER\Desktop\YTChessFinal\Main\Main\obj\Debug\Main.application
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.exe.config
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.exe.manifest
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.application
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.exe
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.pdb
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\Main.xml
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\pgn.net.dll
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\pgn.net.pdb
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\bin\Debug\pgn.net.xml
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.Auspiciante.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.frmDirectiva.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.frm_equ.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.Fondos.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.pgn.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.frm_jug.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.Main.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.Resources.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.partida.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.frmTorneo.resources
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.exe.manifest
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.application
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.exe
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.xml
+C:\Users\USER\Documents\Yachay Tech\Septimo semestre\Bases de datos\FinalDB\YTChessFinal\Main\Main\obj\Debug\Main.pdb
